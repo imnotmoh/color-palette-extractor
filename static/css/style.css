@@ -1,0 +1,44 @@
+body{
+    padding-left: 50px;
+    
+}
+.colors-div {
+    margin: auto;
+    height: fit-content;
+    width: 50%;
+}
+.color {
+    width: 80%;
+    height: 20px;
+}
+.coldiv{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: start;
+}
+
+.coldiv p {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    width: 20%;
+}
+
+.help-block {
+    font-size: x-small;
+    color: red;
+}
+h1{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+form {
+    width: 50%;
+    font-family: 'Roboto', sans-serif;
+}
+
+#submit {
+    background-color: lightblue;
+    margin-top: 20px;
+    
+}
